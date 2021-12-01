@@ -10,8 +10,8 @@ In this folder you need place any images with names 'back, '1','2','3','4','5','
  + #### Player vs Computer
  + #### Computer vs Computer (demo)
 ### Sizes:
- + #### 3x3
- + #### 4x4
- + #### 5x5
+ + #### 3 x 3
+ + #### 4 x 4
+ + #### 5 x 5
 ## Game Example 
 ![image](https://user-images.githubusercontent.com/79384225/143772196-b2defcc3-1db9-4ec4-921f-ca834e32440a.png)
