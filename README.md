@@ -1,6 +1,4 @@
 # Tic Tac Toe
-Need create folder with name 'photo'
-In this folder you need place any images with names 'back, '1','2','3','4','5','6'. All images must be jpg format.
 ## Menu
 ![image](https://user-images.githubusercontent.com/79384225/143772150-f958fcd8-1d32-4333-b415-1ed408c5e8cb.png)
 ## Settings
